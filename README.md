@@ -14,6 +14,13 @@ This project is a full-stack social posting web app built with React on the fron
 - Upload images through the backend
 - React-based UI with routing
 
+
+## Main Pages
+
+- Feed page: `/feed` (shows the list of posts)
+- Create Post page: `/create-post` (lets users create a new post)
+
+
 ## Setup
 
 ### 1. Install backend dependencies
