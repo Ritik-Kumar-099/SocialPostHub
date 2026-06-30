@@ -1,0 +1,7 @@
+# This project uses Node.js and npm rather than Python.
+# Install dependencies in each app folder:
+#   cd backend && npm install
+#   cd frontend && npm install
+
+# Backend packages are defined in backend/package.json
+# Frontend packages are defined in frontend/package.json
