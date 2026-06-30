@@ -1,6 +1,7 @@
-# 04 Project
+# SocialPostHub Project
 
-This project contains a full-stack web application with a React frontend and an Express/Node.js backend.
+I am learning MERN Stack. This is my first mern project.
+This project is a full-stack social posting web app built with React on the frontend and Node.js/Express on the backend. It allows users to create and view posts, upload images, and interact with a simple modern interface. The app connects to a database to store post data and media information. It is a great example of a complete CRUD-based web application with frontend and backend integration.
 
 ## Project Structure
 
